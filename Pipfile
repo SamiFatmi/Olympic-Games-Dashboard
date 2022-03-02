@@ -9,6 +9,7 @@ matplotlib = "*"
 seaborn = "*"
 numpy = "*"
 plotly-express = "*"
+ipykernel = "*"
 
 [dev-packages]
 
